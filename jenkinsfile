@@ -44,6 +44,7 @@ pipeline {
                 }
             }
         } */
+        
         // Étape 5 : Déploiement de l'application
         stage("Deploy App") {
             steps {
